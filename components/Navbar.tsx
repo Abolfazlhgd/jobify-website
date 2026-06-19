@@ -1,6 +1,6 @@
 import { UserButton } from "@clerk/nextjs";
 import LinksDropdown from "./LinksDropdown";
-import ThemeToggle from "./ThemeToggle"; // فرض بر این است که این کامپوننت را دارید
+import ThemeToggle from "./ThemeToggle";
 
 export default function Navbar() {
   return (
